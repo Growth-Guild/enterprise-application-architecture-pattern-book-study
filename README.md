@@ -1,2 +1,16 @@
-# enterprise-application-architecture-pattern-book-study
+# 엔터프라이즈 아키텍처 패턴 책 리딩 스터디
 Let's study a book on Patterns of enterprise application architecture!
+
+- - -
+
+* 모집 인원 : 최대 6명
+* 시간 : 협의
+* 장소 : 협의
+* 목표 : 책을 완독하고, 내걸로 만들기
+* 진행 방법
+  * 4개월에 걸쳐 천천히 진행할 예정
+  * 한 주간 스터디 목표 분량을 정해서 각자 읽고 간단하게 정리하기
+  * 스터디 당일에 발표자를 랜덤으로 선정해서 발표하기 (이전 주에 발표했다고 해서 제외되고 그런거 없음)
+  * 책 내용 외에 공부하다가 새롭게 알게 된 내용도 함께 적극적으로 공유하기 (집단지성)
+
+- - -
