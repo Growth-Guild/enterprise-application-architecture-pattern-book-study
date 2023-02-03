@@ -3,9 +3,9 @@ Let's study a book on Patterns of enterprise application architecture!
 
 - - -
 
-* 모집 인원 : 최대 6명
-* 시간 : 협의
-* 장소 : 협의
+* 모집 인원 : 6명
+* 시간 : 매주 목요일 21시
+* 장소 : 온라인으로 진행하고, 4주에 한 번씩 오프라인으로 진행하고 맛집가기
 * 목표 : 책을 완독하고, 내걸로 만들기
 * 진행 방법
   * 4개월에 걸쳐 천천히 진행할 예정
